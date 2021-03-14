@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="NewsProject.carouselInTabbed.Page1"
+             BackgroundColor="Bisque">
+    <Frame>
+        <StackLayout>
+            <Label Text="Man" FontSize="25" FontAttributes="Bold" TextColor="Red"
+                   VerticalOptions="CenterAndExpand" HorizontalOptions="Center"></Label>
+        </StackLayout>
+    </Frame>
+</ContentPage>
